@@ -6,5 +6,5 @@
     - using LPRNet  instead of CRNN
     - adding more data
     - training data augumentation
-  - **Accuracy**: 73% (Test Set) 
+  - **Accuracy**: 76.3% (Test Set) 
   - hyper parameters and other training details are in notebooks/training&evaulation.ipynb 
